@@ -4,11 +4,11 @@ Welcome to the Real Estate Data Analysis Project! This project aims to provide v
 
 ## Overview
 
-The dataset used in this project contains details of different properties, including the number of bedrooms, bathrooms, property tenure, presence of gardens, location details, size in square feet, price in pounds, nearest station information, and outer postcodes in London. Through this analysis, we aim to answer key questions and uncover trends related to property prices, property characteristics, geographic patterns, and more.
+The dataset used in this project contains details of different properties, including the number of bedrooms, and bathrooms, property tenure, presence of gardens, location details, size in square feet, price in pounds, nearest station information, and outer postcodes in London. Through this analysis, we aim to answer key questions and uncover trends related to property prices, property characteristics, geographic patterns, and more.
 
 ## Project Objectives
 
-Our primary objectives for this project include:
+My primary objectives for this project include:
 
 - **Analyzing Property Prices:** We will calculate the average property price and explore the distribution of prices to understand the range of property values.
 
@@ -35,7 +35,7 @@ To explore the insights and findings from this project, please refer to the docu
 
 ## Dataset
 
-The dataset used for this analysis is available [here](link-to-your-dataset), and it contains information on a diverse range of properties in London.
+The dataset used for this analysis is available [here](https://github.com/simeonowolabi/London_House_Price_-Analysis-Report/blob/main/london_house_prices.csv), and it contains information on a diverse range of properties in London.
 
 We invite you to join us in this exploration of the London real estate market and hope you find the insights provided in this project both informative and valuable.
 
