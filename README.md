@@ -10,17 +10,17 @@ The dataset used in this project contains details of different properties, inclu
 
 My primary objectives for this project include:
 
-- **Analyzing Property Prices:** We will calculate the average property price and explore the distribution of prices to understand the range of property values.
+- **Analyzing Property Prices:** I calculated the average property price and explored the distribution of prices to understand the range of property values.
 
-- **Property Characteristics:** We will investigate the correlation between the number of bedrooms, bathrooms, and property prices. We'll also examine how property tenure and the presence of gardens impact property prices.
+- **Property Characteristics:** I investigated the correlation between the number of bedrooms, bathrooms, and property prices. I also examine how property tenure and the presence of gardens impact property prices.
 
-- **Location Insights:** By analyzing the outer postcodes, we aim to identify geographic trends in property prices and determine if certain areas in London are more expensive than others.
+- **Location Insights:** By analyzing the outer postcodes, I aim to identify geographic trends in property prices and determine if certain areas in London are more expensive than others.
 
-- **Transportation Proximity:** We will explore the relationship between the distance to the nearest station and property prices to assess if proximity to public transportation significantly influences property pricing.
+- **Transportation Proximity:** I explored the relationship between the distance to the nearest station and property prices to assess if proximity to public transportation significantly influences property pricing.
 
-- **Property Types:** We will identify the most common property types and their attributes, including size and price differences.
+- **Property Types:** I identify the most common property types and their attributes, including size and price differences.
 
-- **Property Size and Price Correlation:** We will investigate whether there is a correlation between property size (`size_sqft`) and price.
+- **Property Size and Price Correlation:** I investigated whether there is a correlation between property size (`size_sqft`) and price.
 
 ## Getting Started
 
@@ -37,6 +37,6 @@ To explore the insights and findings from this project, please refer to the docu
 
 The dataset used for this analysis is available [here](https://github.com/simeonowolabi/London_House_Price_-Analysis-Report/blob/main/london_house_prices.csv), and it contains information on a diverse range of properties in London.
 
-We invite you to join us in this exploration of the London real estate market and hope you find the insights provided in this project both informative and valuable.
+I invite you to join us in this exploration of the London real estate market and hope you find the insights provided in this project both informative and valuable.
 
 Feel free to customize this introduction to better fit your project's specifics and objectives. Additionally, don't forget to provide the actual link to your dataset and any relevant details about data sources and preprocessing in the README.
